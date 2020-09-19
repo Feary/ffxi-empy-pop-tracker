@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.5.0 - Mini mode
+- Added the ability to display the UI with reduced information for smaller screens.
+- Added toggle for display of collectable items.
+
 ## 2.4.0 - Items of interest
 - The count of items of interest now tracked at the bottom. For example, Isgebind Hearts.
 

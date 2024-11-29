@@ -27,14 +27,14 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ]]
 
 return {
-    name = 'Orthrus',
-    item = 3287, -- Orthrus's Claw
-    item_target_count = 75,
+    name = 'Rajas',
+    item = 11651, --Epona's Ring
+    item_target_count = 1,
     pops = { {
-        id = 1520, -- Steaming cerberus tongue
+        id = 1518, -- Broken iron giant spike
         type = 'key item',
         dropped_from = {
-            name = 'Amarok, Forced (E-6)',
+            name = 'Ironclad Smiter, Forced (D-12)',
             pops = { {
                 id = 3231, --Sharabha Hide
                 type = 'item',
